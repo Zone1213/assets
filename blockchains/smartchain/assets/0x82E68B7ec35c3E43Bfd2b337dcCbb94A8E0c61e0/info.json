@@ -1,0 +1,10 @@
+{
+  "name": "Tether National USD",
+  "symbol": "USDT.n",
+  "decimals": 6,
+  "website": "https://tethernationalusd.medium.com/",
+  "description": "USDT.n is a BEP20 token with special features.",
+  "explorer": "https://bscscan.com/token/0x82e68b7ec35c3e43bfd2b337dccbb94a8e0c61e0",
+  "status": "active",
+  "id": "Tether National USD (USDT.n)"
+}
